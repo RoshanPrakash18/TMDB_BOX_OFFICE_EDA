@@ -18,7 +18,7 @@ Welcome to the **Box Office Revenue Prediction** project repository! This projec
 
 ## 🛠️ Data Preparation
 
-We load the dataset from the provided CSV files and perform necessary data preprocessing steps. Additionally, we add log-transformed columns to handle skewness in the target variable.
+We load the dataset by downloading the train.csv and test.csv from [Kaggle](https://www.kaggle.com/competitions/tmdb-box-office-prediction). Additionally, we add log-transformed columns to handle skewness in the target variable.
 
 ## 🔍 Exploratory Data Analysis
 
@@ -52,7 +52,7 @@ We train a baseline linear regression model using TF-IDF features extracted from
 
 ## 🚀 Conclusion and Future Work
 
-This project provides valuable insights into the factors influencing box office revenue for movies. Future work could involve exploring more advanced feature engineering techniques, trying different machine learning algorithms, handling outliers and imbalanced data, and deploying the final model for real-time revenue prediction.
+This project provides valuable insights into the factors influencing box office revenue for movies.
 
 ## 📚 Citation
 
