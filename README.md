@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🎬 Box Office Revenue Prediction</h1>
-  <p><i>An Exciting Case Study by Roshan Prakash</i></p>
+  <p><i>An case study by Roshan Prakash</i></p>
 </div>
 
 ## 📝 Project Overview
